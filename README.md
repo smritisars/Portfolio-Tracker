@@ -2,6 +2,8 @@
 
 Simple Streamlit app to track a stock portfolio using `yfinance`.
 
+![Portfolio Tracker](assets/portfolio%20tracker.png) 
+
 ## Run locally
 1. Create venv and install:
 ```bash
@@ -12,4 +14,4 @@ source .venv/bin/activate
 .venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 
-![Portfolio Tracker](assets/portfolio%20tracker.png)
+
