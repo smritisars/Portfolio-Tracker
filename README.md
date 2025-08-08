@@ -9,6 +9,8 @@ You can try the app here: [Portfolio Tracker on Streamlit](https://portfolio-tra
 ## Preview
 ![Portfolio Tracker](assets/portfolio%20tracker.png) 
 
+Current prices as on 08/09/25
+
 ## Features
 
 - **Real-time Price Updates** – Integrated with the **Yahoo Finance API** to fetch the latest prices for each ticker symbol.
