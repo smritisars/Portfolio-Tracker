@@ -11,3 +11,5 @@ source .venv/bin/activate
 # windows (powershell)
 .venv\Scripts\Activate.ps1
 pip install -r requirements.txt
+
+![Portfolio Tracker](assets/portfolio%20tracker.png)
