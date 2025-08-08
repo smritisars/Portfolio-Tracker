@@ -1,28 +1,13 @@
-# Python cache
 __pycache__/
 *.py[cod]
-
-# Virtual envs
 .venv/
 venv/
 .env
-
-# Editor files
 .vscode/
 .idea/
-
-# OS
 .DS_Store
-
-# Streamlit
 .streamlit/
-
-# Data outputs (don't commit large generated data)
 *.csv
-*.tsv
-*.parquet
 *.sqlite
 *.db
-
-# Logs and images you don't want
 *.log
